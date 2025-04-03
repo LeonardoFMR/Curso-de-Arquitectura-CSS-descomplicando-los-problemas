@@ -1,0 +1,41 @@
+@import url("cabecera.css");
+
+@import url("menu/menu-items.css");
+@import url("menu/menu-link.css");
+@import url("menu/menu-lista.css");
+
+@import url("banner/banner.css");
+@import url("banner/banner-imgen.css");
+@import url("banner/banner-titulo.css");
+
+@import url("sobre/sobre.css");
+@import url("sobre/sobre-descripcion.css");
+@import url("sobre/sobre-titulo.css");
+
+@import url("recetas.css");
+@import url("receta/receta-boton.css");
+@import url("receta/receta-contenido.css");
+@import url("receta/receta-descripcion.css");
+@import url("receta/receta-imagen.css");
+@import url("receta/receta-titulo.css");
+@import url("receta/receta-boton.css");
+@import url("receta/receta.css");
+
+@import url("quienes/quienes.css");
+@import url("quienes/quines-descripcion.css");
+@import url("quienes/quienes-titulo.css");
+
+@import url("personas.css");
+@import url("persona/persona.css");
+@import url("persona/persona-funcion.css");
+@import url("persona/persona-imagen.css");
+@import url("persona/persona-nombre.css");
+
+@import url("rodapie.css");
+@import url("rodapie/rodapie-descripcion.css");
+@import url("rodapie/rodapie-icono.css");
+@import url("rodapie/rodapie-item.css");
+@import url("rodapie/rodapie-lista.css");
+@import url("rodapie/rodapie-titulo.css");
+
+@import url("logo.css");
